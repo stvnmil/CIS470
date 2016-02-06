@@ -10,6 +10,9 @@
     <form id="form1" runat="server">
     <div>
     
+        <asp:Panel ID="Panel1" runat="server">
+        </asp:Panel>
+    
     </div>
     </form>
 </body>
